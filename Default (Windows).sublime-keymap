@@ -1,0 +1,3 @@
+[
+  { "keys": ["ctrl+shift+re"], "command": "new_window" },
+]

@@ -2,20 +2,19 @@
 	"bootstrapped": true,
 	"in_process_packages":
 	[
+		"SublimeLinter"
 	],
 	"installed_packages":
 	[
-		"AdvancedNewFile",
-		"Anaconda",
-		"Git",
-		"GitGutter",
+		"JSON Reindent",
 		"Package Control",
 		"requirementstxt",
 		"SideBarEnhancements",
 		"SublimeLinter",
+		"SublimeLinter-annotations",
+		"SublimeLinter-flake8",
 		"SublimeLinter-pep8",
 		"SublimeLinter-pyflakes",
-		"Theme - Flatland",
-		"Theme - Soda"
+		"SummitLinter"
 	]
 }
