@@ -2,13 +2,11 @@
 	"bootstrapped": true,
 	"in_process_packages":
 	[
+		"Vintage"
 	],
 	"installed_packages":
 	[
 		"AdvancedNewFile",
-		"Anaconda",
-		"Git",
-		"GitGutter",
 		"Package Control",
 		"requirementstxt",
 		"SideBarEnhancements",
@@ -16,6 +14,9 @@
 		"SublimeLinter-pep8",
 		"SublimeLinter-pyflakes",
 		"Theme - Flatland",
-		"Theme - Soda"
+		"Theme - Soda",
+		"Tomorrow Night Italics Color Scheme",
+		"Vintage",
+		"Zen Tabs"
 	]
 }
