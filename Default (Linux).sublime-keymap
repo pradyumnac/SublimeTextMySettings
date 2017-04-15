@@ -9,6 +9,7 @@
   {
     "keys": ["ctrl+alt+w"],
     "command": "close_tabs"
+<<<<<<< HEAD
   },
     {
     "keys": ["ctrl+k","ctrl+l"],
@@ -33,3 +34,7 @@
     { "keys": ["super+alt+l"], "command": "reindent"}
 
 ]
+=======
+  }
+]
+>>>>>>> 6736fbd5c63b8af1c897ab56609ce6cc1b4b58eb
