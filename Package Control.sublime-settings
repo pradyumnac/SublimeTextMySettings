@@ -2,19 +2,20 @@
 	"bootstrapped": true,
 	"in_process_packages":
 	[
-		"SublimeLinter"
 	],
 	"installed_packages":
 	[
-		"JSON Reindent",
+		"AdvancedNewFile",
+		"Color Scheme - Vintage Terminal",
 		"Package Control",
 		"requirementstxt",
 		"SideBarEnhancements",
 		"SublimeLinter",
-		"SublimeLinter-annotations",
-		"SublimeLinter-flake8",
 		"SublimeLinter-pep8",
 		"SublimeLinter-pyflakes",
-		"SummitLinter"
+		"Theme - Flatland",
+		"Theme - Soda",
+		"Tomorrow Night Italics Color Scheme",
+		"Zen Tabs"
 	]
 }
